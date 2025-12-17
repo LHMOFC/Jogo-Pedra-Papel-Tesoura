@@ -1,2 +1,2 @@
  # Jogo: Pedra Papel Tesoura
- Jogo de Jokenpo, v1.0 em python
+ Jogo de Jokenpo, v2.0 em python
